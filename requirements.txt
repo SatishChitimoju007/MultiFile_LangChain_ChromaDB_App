@@ -1,5 +1,4 @@
 langchain
-langchain_openai
 openai
 tiktoken
 chromadb
